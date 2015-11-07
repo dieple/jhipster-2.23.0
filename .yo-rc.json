@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "awsctl",
+    "packageName": "uk.co.sainsburys.awsctl",
+    "packageFolder": "uk/co/sainsburys/awsctl",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": true,
+    "rememberMeKey": "1ea4b7cf6d38ad7d865c11249236e391b7c40a8f",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
